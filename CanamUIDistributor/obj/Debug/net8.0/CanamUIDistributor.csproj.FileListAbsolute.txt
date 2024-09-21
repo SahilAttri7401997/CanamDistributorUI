@@ -1,0 +1,8 @@
+D:\CanamUIDistributor\CanamUIDistributor\obj\Debug\net8.0\CanamUIDistributor.GeneratedMSBuildEditorConfig.editorconfig
+D:\CanamUIDistributor\CanamUIDistributor\obj\Debug\net8.0\CanamUIDistributor.AssemblyInfoInputs.cache
+D:\CanamUIDistributor\CanamUIDistributor\obj\Debug\net8.0\CanamUIDistributor.AssemblyInfo.cs
+D:\CanamUIDistributor\CanamUIDistributor\obj\Debug\net8.0\CanamUIDistributor.csproj.CoreCompileInputs.cache
+D:\CanamUIDistributor\CanamUIDistributor\obj\Debug\net8.0\CanamUIDistributor.MvcApplicationPartsAssemblyInfo.cache
+D:\CanamUIDistributor\CanamUIDistributor\obj\Debug\net8.0\CanamUIDistributor.RazorAssemblyInfo.cache
+D:\CanamUIDistributor\CanamUIDistributor\obj\Debug\net8.0\CanamUIDistributor.RazorAssemblyInfo.cs
+D:\CanamUIDistributor\CanamUIDistributor\obj\Debug\net8.0\CanamUIDistributor.sourcelink.json
